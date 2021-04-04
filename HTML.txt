@@ -1,0 +1,52 @@
+<h1>--<h6>
+<p>
+<img>
+<br>
+<ul>
+<a>
+<center>
+<b>
+<strong>
+<i>
+<em>
+<mark>
+<small>
+<del>
+<ins>
+<sub>
+<sup>
+<q>
+<hr>
+<blockquote>
+<!---->
+<table>
+<form>
+<lable>
+<input>
+<select>
+<option>
+<textarea>
+
+<fieldset>
+<legend>
+<input type="button" value="Button"><br>
+<input type="checkbox"><br>
+ <input type="color"><br>
+<input type="date"><br>
+<input type="email"><br>
+<input type="file" multiple><br>
+<input type="hidden"><br>
+<input type="image"><br>
+<input type="month"><br>
+<input type="number" maxlength="4"><br>
+<input type="password"><br>
+<input type="radio"><br>
+<input type="reset"><br>
+<input type="search" size="4"> <br>
+<input type="submit"><br>
+<input type="tel"><br>
+<input type="text" value="Hello" readonly disabled><br>
+<input type="time"><br>
+<input type="url" required="Enter URL"><br>
+<input type="range"  min="0" max="10"><br>
+<input type="text" pattern=[A-Za-z]{4} placeholder="Enter Your Story">
